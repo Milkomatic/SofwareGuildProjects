@@ -1,0 +1,9 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCost,PerSquareFoot,MaterialCost,LaborCost,Tax,Total,Deleted
+1,NAme,in,0.07,wood,123.0,5.15,4.75,633.45,584.25,85.239,1302.939,false
+2,INF,in,0.07,wood,Infinity,5.15,4.75,Infinity,Infinity,Infinity,Infinity,false
+3,Scott,in,0.0,wood,123.0,0.0,0.0,0.0,0.0,0.0,0.0,false
+4,Scott,Oh,0.0575,Carpet,12.0,2.25,2.1,27.0,25.200000000000003,3.0015000000000005,55.2015,false
+5,ff,OH,0.0575,Wood,0.0,5.15,4.75,0.0,0.0,0.0,0.0,false
+6,Smith§John,oh,0.0575,Wood,1.0,5.15,4.75,5.15,4.75,0.56925,10.46925,false
+7,Hello§ Friend,OH,0.0,Wood,8.989898989898E12,0.0,0.0,0.0,0.0,0.0,0.0,true
+8,mmm,oh,0.56925,wood,10.0,5.15,4.75,51.5,47.5,56.35575,155.35575,false

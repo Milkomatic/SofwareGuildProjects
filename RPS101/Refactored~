@@ -1,0 +1,9 @@
+I can make a new method for asking the player how many times to play, in the same location that logic is. it would return int timesToPlay
+
+my loops of aking a player what number he wants to choose can be seperated if my list array is made global. this method would simply return int player
+
+A method could be used when the computer chooses it's nuber, and that method would be called from inside results(); i would only need to pass in the player variable
+
+I could also make the entire game loop a do while, and have the "would you like to play again" return a boolean stopping the game is the player says no.
+
+
